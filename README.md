@@ -10,6 +10,7 @@ A Git client for macOS. It runs the real `git` command under the hood, so it alw
 
 DMG を開き、Yohaku を「アプリケーション」フォルダへドラッグしてください。Apple の公証（notarization）済みです。
 
+- 紹介ページ: https://mashiharalab.dev/yohaku
 - 動作環境: macOS 14 以降（Apple シリコン / Intel）
 - `git` が必要です。入っていない場合は、初回に macOS が「コマンドライン・デベロッパ・ツール」のインストールを案内します
 
